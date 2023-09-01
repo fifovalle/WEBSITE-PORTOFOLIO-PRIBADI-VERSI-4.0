@@ -18,7 +18,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
   Pengembangan Aplikasi Web yang Responsif: Saya dapat membantu Anda merancang dan mengembangkan aplikasi web yang berfungsi dengan baik di berbagai perangkat.
   Pengembangan Aplikasi Mobile: Saya memiliki pengalaman dalam mengembangkan aplikasi mobile menggunakan teknologi terbaru.
   Konsultasi Teknis: Jika Anda memiliki pertanyaan atau membutuhkan saran teknis, saya siap membantu Anda.
-- **Proyek Terakhir:**Salah satu proyek terbaru yang saya kerjakan adalah [Nama Proyek Terakhir Anda]. Proyek ini merupakan hasil dari kolaborasi dengan tim berbakat di bidang pengembangan perangkat lunak. Beberapa poin utama tentang proyek ini meliputi:
+- **Proyek Terakhir:** Salah satu proyek terbaru yang saya kerjakan adalah [Nama Proyek Terakhir Anda]. Proyek ini merupakan hasil dari kolaborasi dengan tim berbakat di bidang pengembangan perangkat lunak. Beberapa poin utama tentang proyek ini meliputi:
   Website Portofolio Pribadi
 - **Kontak:** Hubungi saya untuk kolaborasi, diskusi, atau pertanyaan.
 
