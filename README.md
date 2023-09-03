@@ -28,6 +28,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 - Bahasa Pemrograman: JavaScript.
 - Pengembangan Web: HTML, Tailwind CSS, React.
+- Alat Pengembangan: Visual Studio Code, Git
 - Kerangka Kerja: Node.js.
 
 ## 📬 Kontak
