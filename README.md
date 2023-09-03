@@ -1,5 +1,6 @@
 **Website Portofolio Pribadi Versi 4.0 - README**
 
+![Screenshot 2023-09-03 093517](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-4.0/assets/90078068/471bc458-d0c8-4eae-852b-90c4cf75de95)
 ![Screenshot 2023-09-01 165749](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-4.0/assets/90078068/555eec9d-9941-416c-8f49-a30cc1fafc84)
 ![Screenshot 2023-09-01 165806](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-4.0/assets/90078068/b74357b6-c3c9-47a6-ae12-fd568fd2acf6)
 ![Screenshot 2023-09-01 165817](https://github.com/fifovalle/WEBSITE-PORTOFOLIO-PRIBADI-VERSI-4.0/assets/90078068/5ab4d35c-ad3e-4913-9ff1-dbec2930b7e7)
