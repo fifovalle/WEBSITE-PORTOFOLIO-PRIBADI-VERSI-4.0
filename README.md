@@ -13,6 +13,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
 
 ## 📂 Navigasi Proyek
 
+- **Loader:** Menggunakan HashLoader dari react
 - **Beranda:** Kenali lebih lanjut tentang latar belakang dan minat saya.
 - **Tentang Saya:** Saya adalah seorang pengembang perangkat lunak yang bersemangat dengan pengalaman dalam mengembangkan aplikasi web dan mobile. Saya memiliki latar belakang dalam bahasa pemrograman JavaScript dan kerangka kerja Node.js yang kuat.
 - **Layanan:** Saya menyediakan berbagai layanan pengembangan perangkat lunak yang dapat membantu Anda mencapai tujuan teknologi Anda. Beberapa layanan yang saya tawarkan termasuk:
