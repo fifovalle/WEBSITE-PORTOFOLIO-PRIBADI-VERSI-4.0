@@ -24,7 +24,7 @@ Jelajahi karya terbaru dan keterampilan saya dalam dunia pengembangan perangkat 
   Website Portofolio Pribadi
 - **Kontak:** Hubungi saya untuk kolaborasi, diskusi, atau pertanyaan.
 
-## 🛠️ Keterampilan
+## 🛠️ Dibuat Dengan
 
 - Bahasa Pemrograman: JavaScript.
 - Pengembangan Web: HTML, Tailwind CSS, React.
