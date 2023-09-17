@@ -38,5 +38,5 @@ Ingin berkolaborasi atau mendiskusikan proyek? Jangan ragu untuk menghubungi say
 Terima kasih telah mengunjungi Website Portofolio Pribadi Versi 4.0 saya di GitHub! 🙌
 
 <div align="center">
-  &copy; 2023 Naufal FIFA
+  &copy; 2023 [Naufal FIFA]
 </div>
